@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="edu.wpi.first.wpilibj.CameraServer"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.command.Subsystem"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team369.robot.RobotMap"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.RobotDrive"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.Joystick"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team369.robot.subsystems.DriveTrain_Subsystem"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.command.Command"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team369.robot.OI"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team369.robot.commands.TankDrive_Command"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team369.robot.Robot"/>
 </qualifiedTypeNameHistroy>

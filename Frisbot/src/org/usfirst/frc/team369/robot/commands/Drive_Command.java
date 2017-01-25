@@ -1,5 +1,13 @@
 package org.usfirst.frc.team369.robot.commands;
 
-public class Drive_Command {
+import edu.wpi.first.wpilibj.command.Command;
 
+public class Drive_Command extends Command {
+
+	@Override
+	protected boolean isFinished() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+	
 }
