@@ -17,10 +17,13 @@ public class DriveTrain_Subsystem extends Subsystem{
 	}
 	
 	public void Drive(double leftSpeed, double rightSpeed){
-		MainDrive.tankDrive(leftSpeed, rightSpeed);
+//		frontLeft.set(leftSpeed);
+//		backLeft.set(leftSpeed);
+//		frontRight.set(rightSpeed);	
+//		backRight.set(rightSpeed);
 	}
 
 	public void Stop(){
-		MainDrive.tankDrive(0,0);
+		MainDrive.drive(0,0);
 	}
 }

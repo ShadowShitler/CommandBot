@@ -11,12 +11,8 @@ import org.usfirst.frc.team369.robot.commands.ExampleCommand;
  */
 public class OI {
 	Joystick p4 = new Joystick(0);
-//	Button triangle = new p4(stick, 1);
 	public OI(){
 		
-	}
-	public double getleftSpeed(leftSpeed){
-		return p4.getRawAxis(leftSpeed);
 	}
 	public Joystick getJoystick(){
 		return p4;
